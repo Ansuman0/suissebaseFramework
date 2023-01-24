@@ -12,8 +12,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import objectRepository.HomePage;
-import objectRepository.LoginPage;
+import pageObjectRepository.HomePage;
+import pageObjectRepository.LoginPage;
 
 public class BaseClass {
 
